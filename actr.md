@@ -27,7 +27,7 @@ Census block groups and towns are provided by the 2010 U.S. Census
 3. After the buffer area was created, I used population information to calculate the percentage of people in the communities who had easy access to the bus route. 
 
 
-### Discussion 
+### Results and Discussion 
 
 Addison County Transit Resources, or ACTR, is the only public transport option for Addison County, VT. Much of the county is rural, and the main services shuttle people to and from Middlebury and Burlington, principally. However, this leaves numerous towns underserved by public transport options, especially lower-income laborers who do not own personal vehicles. The most glaring missing route to ACTR’s current services would be in the western portion of the county. This map illustrates a proposed route, which would connect five towns in the region with the bigger ACTR hub in Middlebury, VT. Times between stops are listed, as well as the total route time. 
 
