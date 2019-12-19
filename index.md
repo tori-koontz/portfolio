@@ -8,7 +8,7 @@ On this page are various projects I have completed throughout various classes in
 
 How do geographers study spatial interactions between people, society, and the environment? How do factors like race, ethnicity, age, and income relate to spatial cognition, movement, settlement, and social organization? How can geographic information systems (GIS) help geographers describe, understand, and explain these spatial patterns and processes? In this course we learned applications of GIS in human geography from local to global scales. Readings and case studies introduced and contextualized methods for using mental maps, big data, regional statistics, and network models for inquiries of gerrymandering, gentrification, spatial justice, and other topics. We learned to gather geographic evidence, conduct analyses with GIS, and critically present results with cartographic layouts.
 
-1. 
+1. [Public Transportation in Rural Addison County](actr.md)
 
 
 
