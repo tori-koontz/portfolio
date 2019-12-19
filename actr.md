@@ -4,9 +4,9 @@ For an independent problem in Human GIS, students had to develop a new public tr
 
 ### Data 
 
-All data for this lab was provided by the professor in the following [file](ip2.gpkg).
+All data for this lab was provided by the professor as a geopackage.
 
-It includes relevant data such as "roads", "ACTR_Stops", "blocks" (Census block groups), and "e911", which shows all residential properties in Addison County.
+It included relevant data such as "roads", "ACTR_Stops", "blocks" (Census block groups), and "e911", which shows all residential properties in Addison County.
 
 Roads are provided by ESRI
 
