@@ -10,6 +10,7 @@ How do geographers study spatial interactions between people, society, and the e
 
 1. [Public Transportation in Rural Addison County](actr.md)
 
+2. [Segregation through Surface Temperatures in Houston, TX](houston.md)
 
 
 ### Fall 2019: Open Source GIS 
