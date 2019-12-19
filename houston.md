@@ -29,7 +29,7 @@ Next steps: Analyzing Surface Temperatures in Connection to Segregation
 
 These maps take a more in-depth look at the southwest region of the city, where one of the cooler temperature zones are located among other extremely hot areas. From comparing these two, we see that the green, lower temperature zone is also more forested and less developed, leading to a cooler canopy which protects from the sun and heat. The region directly below, however, is heavily developed and also experienced much higher surface temperatures on Sept. 6th. As Heynen et. al. explain, natural resources like trees in urban settings are disproportionately distributed to favor white, upper-class citizens, to the detriment of minority urban populations (2006).
 
-![map6](houstonheat.png)
+![map6](houstonheat2.png)
 
 By comparing both the temperature and median rent by each enclave grouping, we can get a better understanding if the heat exposure in Houston is worsened by segregation. The following table makes a strong case for the presence of segregation in Houston through the rent prices (the price of rent for the Isolated White group is almost twice as much as that of the Majority Black group), but the evidence for disproportionate ecological harms such as heat waves is less convincing, with most only varying slightly. However, we do see quite a large difference between the Isolated White and Mixed groups, which could hint at a slightly uneven distribution of environmental harms in Houston due to segregation.
 
