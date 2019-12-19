@@ -27,3 +27,7 @@ In GEOG323, students examined geographic information science (GIS) with open-sou
 
 4. [Activity Hotspots on Twitter during Hurricane Dorian](lab10twitter.md)
 
+
+### Spring 2020: Cartographic Design 
+
+Coming soon!
