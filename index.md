@@ -35,4 +35,8 @@ During January 2020, I was an intern for WTN- Hub for the Americas. I was tasked
 
 ### Spring 2020: Cartographic Design 
 
-Coming soon!
+In this course we studied principles of cartographic design in the digital era. Major topics included cartography before computing, reference map design, thematic map design, and atlas production. During labs, we created workflows for cartographic design with geographic information systems and graphics software. Through individual projects and group critiques, we learned to design cartographic products that facilitate spatial thinking and effectively communicate geographic information to one's audience. 
+
+However, as this semester was interrupted by the COVID-19 pandemic, much of my workflow and lab materials are not currently accessible, and of what is, nothing represents a polished, "final" product and instead represents examples of practiced skills. Our last month of the course was dedicated to completely original, polished projects of our own choosing. 
+
+1. [The Sendero Pacifico Tourism Map](cartproj.md)
