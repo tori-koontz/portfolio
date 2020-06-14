@@ -30,7 +30,7 @@ In GEOG323, students examined geographic information science (GIS) with open-sou
 
 ### World Trails Network: Sendero Pácifico 
 
-During January 2020, I was an intern for WTN- Hub for the Americas. I was tasked with creating an interactive web map of the entire trail network. The map is still under construction! Check back later.
+During January 2020, I was an intern for WTN- Hub for the Americas. I was tasked with creating an interactive web map of the entire trail network. The map, along with additional information about the project, can be found [here](https://tori-koontz.github.io/senderopacifico/).
 
 
 ### Spring 2020: Cartographic Design 
